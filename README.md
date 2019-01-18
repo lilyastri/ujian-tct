@@ -4,6 +4,8 @@
 ### Apa itu docker??
 ---
 
+  <img src="https://github.com/lilyastri/ujian-tct/blob/master/docker_animals.png" alt="c1"/>
+  
 Docker adalah sebuah aplikasi yang bersifat open source yang berfungsi sebagai wadah/container untuk mengepak/memasukkan sebuah software secara lengkap beserta semua hal lainnya yang dibutuhkan oleh software tersebut dapat berfungsi. Pengaturan software beserta file/hal pendukung lainnya akan menjadi sebuah Image (istilah yang diberikan oleh docker). Kemudian sebuah instan dari Image tersebut kemudian disebut Container.
 
 ---
