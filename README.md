@@ -1,5 +1,3 @@
-# ujian-tct
-
 ## Responsi Praktikum Teknologi Cloud Terapan
 ----
 
