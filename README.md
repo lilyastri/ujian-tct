@@ -52,16 +52,16 @@ Dalam hal ini kita beranggapan berada didalam direktori path “/home/sekolahlin
 
 - yang pertama masuk ke file Dockerfile
     
-    vim Dockerfile
+       vim Dockerfile
 
 - kemudian isikan dengan paramater dibawah didalam filenya
 
-    FROM openjdk
-    MAINTAINER sekolahlinux
-    RUN mkdir -p /home/sekolahlinux
-    COPY ./hello-world.jar /home/sekolahlinux
-    EXPOSE 8080
-    ENTRYPOINT exec java -jar /home/sekolahlinux/hello-world.jar
+       FROM openjdk
+       MAINTAINER sekolahlinux
+       RUN mkdir -p /home/sekolahlinux
+       COPY ./hello-world.jar /home/sekolahlinux
+       EXPOSE 8080
+       ENTRYPOINT exec java -jar /home/sekolahlinux/hello-world.jar
 
 Penjelasan mengenai script diatas :
 
