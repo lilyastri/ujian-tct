@@ -1,6 +1,6 @@
 # ujian-tct
 
-##Responsi Praktikum Teknologi Cloud Terapan
+## Responsi Praktikum Teknologi Cloud Terapan
 ----
 
 ### Apa itu docker??
